@@ -3,6 +3,8 @@
 This document walks through the key pieces of my **i3 window‑manager setup**.  
 The goal is to make the config self‑documenting so I—or anyone who clones the repo—can tweak it confidently. Most of this comes standard with the basic i3 Config with a few personal tweaks to fit my style and workflow.
 
+![image](https://github.com/user-attachments/assets/4c447258-9b8e-409b-8c43-93d68e3cec30)
+
 ---
 
 ## Table of Contents
